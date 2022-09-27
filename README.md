@@ -10,6 +10,7 @@
 ![image](https://user-images.githubusercontent.com/112737459/192476757-0982c8f8-8423-4324-bec0-4b5a3df62fc6.png)
 
 expirement 7
+(https://github.com/durgaprasadpara/cloud-computing-lab/blob/main/experiment%207)
 ![image](https://user-images.githubusercontent.com/112737459/192478015-a0fc84e0-0acc-4c92-991e-c4bdfff4df05.png)
 ![image](https://user-images.githubusercontent.com/112737459/192478076-2040efd0-3cca-4199-ba1c-799fa84c2881.png)
 ![image](https://user-images.githubusercontent.com/112737459/192478151-a9602ca3-3997-4290-9bc0-d453a4e73ac7.png)
