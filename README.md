@@ -1,5 +1,6 @@
 # cloud-computing-lab
 # expirement 6
+(https://github.com/durgaprasadpara/cloud-computing-lab/blob/main/experiment%206)
 ![image](https://user-images.githubusercontent.com/112737459/192476388-86367de0-2b23-4532-916c-1e3b52e28811.png)
 ![image](https://user-images.githubusercontent.com/112737459/192476389-0fd11226-61ae-441b-9562-ab7852e5cbad.png)
 ![image](https://user-images.githubusercontent.com/112737459/192476387-939611a4-9618-470d-8315-f07b8c5dc01f.png)
