@@ -28,3 +28,11 @@ expirment 9
 ![image](https://user-images.githubusercontent.com/112737459/192487380-4d775045-1f02-4958-8424-9dfe562721fc.png)
 ![image](https://user-images.githubusercontent.com/112737459/192487448-5da66be6-6ad5-472d-8891-9141b2d3e5d4.png)
 ![image](https://user-images.githubusercontent.com/112737459/192487525-ed4423b1-32d8-4d7a-96a1-49ac328f94b4.png)
+
+expirment 10
+![image](https://user-images.githubusercontent.com/112737459/192934119-5b0c065a-6ade-4cd6-870b-9ad40e5f143b.png)
+![image](https://user-images.githubusercontent.com/112737459/192934192-691e9d2d-75b9-41ec-abd6-e3e1eae8dcb5.png)
+![image](https://user-images.githubusercontent.com/112737459/192934244-742c78a5-be8f-4cd8-9716-79c250b6201f.png)
+![image](https://user-images.githubusercontent.com/112737459/192934287-74bd309b-f7db-48b0-9f07-9247b3ee58ea.png)
+![image](https://user-images.githubusercontent.com/112737459/192934321-a291a721-f3c1-4dc6-8ca6-ef11303c93df.png)
+![image](https://user-images.githubusercontent.com/112737459/192934363-570307fe-a5cf-44d5-9cd3-d4e5a1b6cece.png)
