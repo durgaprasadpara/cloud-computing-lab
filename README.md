@@ -30,6 +30,7 @@ expirment 9
 ![image](https://user-images.githubusercontent.com/112737459/192487525-ed4423b1-32d8-4d7a-96a1-49ac328f94b4.png)
 
 expirment 10
+(https://github.com/udaykirancode/csa1557-cloud-computing-lab/blob/main/exp.no.:10)
 ![image](https://user-images.githubusercontent.com/112737459/192934119-5b0c065a-6ade-4cd6-870b-9ad40e5f143b.png)
 ![image](https://user-images.githubusercontent.com/112737459/192934192-691e9d2d-75b9-41ec-abd6-e3e1eae8dcb5.png)
 ![image](https://user-images.githubusercontent.com/112737459/192934244-742c78a5-be8f-4cd8-9716-79c250b6201f.png)
