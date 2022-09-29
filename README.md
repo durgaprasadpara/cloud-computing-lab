@@ -118,6 +118,7 @@ experiment 19
 ![image](https://user-images.githubusercontent.com/112737459/192984145-26b5d0ff-4747-482a-9340-d802f1477456.png)
 
 experiment 20
+(https://github.com/durgaprasadpara/cloud-computing-lab/blob/main/experiment%2020)
 ![image](https://user-images.githubusercontent.com/112737459/192984912-24690f47-417b-4e0e-be53-6ce4df550224.png)
 ![image](https://user-images.githubusercontent.com/112737459/192984981-00c74281-154e-42d4-b7d9-16a9f6027513.png)
 ![image](https://user-images.githubusercontent.com/112737459/192985033-705418e5-061c-4b50-b850-382c361e4be9.png)
