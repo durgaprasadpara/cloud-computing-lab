@@ -37,3 +37,14 @@ expirment 10
 ![image](https://user-images.githubusercontent.com/112737459/192934287-74bd309b-f7db-48b0-9f07-9247b3ee58ea.png)
 ![image](https://user-images.githubusercontent.com/112737459/192934321-a291a721-f3c1-4dc6-8ca6-ef11303c93df.png)
 ![image](https://user-images.githubusercontent.com/112737459/192934363-570307fe-a5cf-44d5-9cd3-d4e5a1b6cece.png)
+
+expirement 11
+![image](https://user-images.githubusercontent.com/112737459/192935688-d489cafa-9c82-43ef-9017-68679dfe51b0.png)
+![image](https://user-images.githubusercontent.com/112737459/192935773-09ce33b2-acb3-4808-b7b6-7a11c6995fb8.png)
+![image](https://user-images.githubusercontent.com/112737459/192935836-665fe78a-ffa9-406e-be4e-920000511cc3.png)
+![image](https://user-images.githubusercontent.com/112737459/192935877-f978d553-498b-4855-abeb-bc7420142ca8.png)
+![image](https://user-images.githubusercontent.com/112737459/192935913-107927b9-e361-488f-9d20-870f9b8970fd.png)
+
+
+
+
