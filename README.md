@@ -57,6 +57,12 @@ experiment 8
 ![image](https://user-images.githubusercontent.com/112737459/192936763-8e58e616-e596-4383-9ac8-9d7173ab028a.png)
 ![image](https://user-images.githubusercontent.com/112737459/192936788-5f239a45-b151-4e6a-8591-235c02bdf014.png)
 
+experiment 12
+![image](https://user-images.githubusercontent.com/112737459/192937414-9b1c1a70-7ba4-47d5-8e71-1d41ad417d31.png)
+![image](https://user-images.githubusercontent.com/112737459/192937464-52da98d6-6467-4979-a7e7-f6b4aede082c.png)
+![image](https://user-images.githubusercontent.com/112737459/192937496-22fca9e9-cd60-4ec7-94ba-8d28f7be929c.png)
+
+
 
 
 
