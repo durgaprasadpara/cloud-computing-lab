@@ -1,5 +1,5 @@
 # cloud-computing-lab
-# expirement 6
+# expirment 6
 (https://github.com/durgaprasadpara/cloud-computing-lab/blob/main/experiment%206)
 ![image](https://user-images.githubusercontent.com/112737459/192476388-86367de0-2b23-4532-916c-1e3b52e28811.png)
 ![image](https://user-images.githubusercontent.com/112737459/192476389-0fd11226-61ae-441b-9562-ab7852e5cbad.png)
@@ -9,7 +9,7 @@
 ![image](https://user-images.githubusercontent.com/112737459/192476662-a73c5980-68e7-4698-a3dd-241ebf8cff1a.png)
 ![image](https://user-images.githubusercontent.com/112737459/192476757-0982c8f8-8423-4324-bec0-4b5a3df62fc6.png)
 
-expirement 7
+expirment 7
 (https://github.com/durgaprasadpara/cloud-computing-lab/blob/main/experiment%207)
 ![image](https://user-images.githubusercontent.com/112737459/192478015-a0fc84e0-0acc-4c92-991e-c4bdfff4df05.png)
 ![image](https://user-images.githubusercontent.com/112737459/192478076-2040efd0-3cca-4199-ba1c-799fa84c2881.png)
@@ -38,7 +38,8 @@ expirment 10
 ![image](https://user-images.githubusercontent.com/112737459/192934321-a291a721-f3c1-4dc6-8ca6-ef11303c93df.png)
 ![image](https://user-images.githubusercontent.com/112737459/192934363-570307fe-a5cf-44d5-9cd3-d4e5a1b6cece.png)
 
-expirement 11
+expirment 11
+(https://github.com/durgaprasadpara/cloud-computing-lab/blob/main/experiment%2011)
 ![image](https://user-images.githubusercontent.com/112737459/192935688-d489cafa-9c82-43ef-9017-68679dfe51b0.png)
 ![image](https://user-images.githubusercontent.com/112737459/192935773-09ce33b2-acb3-4808-b7b6-7a11c6995fb8.png)
 ![image](https://user-images.githubusercontent.com/112737459/192935836-665fe78a-ffa9-406e-be4e-920000511cc3.png)
